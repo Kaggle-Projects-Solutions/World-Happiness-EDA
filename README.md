@@ -1,6 +1,6 @@
 # World Happiness (EDA)
 
-![kaggle](https://img.shields.io/badge/_-Open_in_Kaggle-informational?style=plastic&logo=kaggle&logoColor=white&color=045bab&link=[https://www.kaggle.com/code/martinab/world-happiness-plotly-eda/edit/run/113722316](https://www.kaggle.com/code/martinab/world-happiness-plotly-eda)
+[![kaggle](https://img.shields.io/badge/_-Open_in_Kaggle-informational?style=plastic&logo=kaggle&logoColor=white&color=045bab&link=https://www.kaggle.com/code/martinab/world-happiness-plotly-eda)](https://www.kaggle.com/code/martinab/world-happiness-plotly-eda)
 
 ### Introduction
 The aim of this project was to demonstrate different visualisation techniques by using plotly library and analyse World hapiness datasets (2015-2019).
